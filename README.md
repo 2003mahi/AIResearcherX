@@ -79,6 +79,6 @@ This notebook implements an **AI researcher** that continuously searches for inf
 
 ---
 
-Follow me on [X](https://x.com/mattshumer_) for updates on this and other AI things I'm working on.
+Follow me on [X](https://x.com/Mahi20909328) for updates on this and other AI things I'm working on.
 
 OpenDeepResearcher is released under the MIT License. See the LICENSE file for more details.
